@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hiiiee, I'm Sanvie
+💻 Passionate about coding, problem-solving, and building cool projects.  
+🚀 Always learning new tech and improving my skills.  
 
-<!--
-**sanvie25/sanvie25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- **Languages:** C, C++, Python, JavaScript  
+- **Web:** HTML, CSS, JavaScript  
+- **Tools:** Git, VS Code, Linux  
+- **Interests:** Web Development, Problem Solving, Open Source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
