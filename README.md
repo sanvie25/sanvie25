@@ -2,15 +2,13 @@
   
 # Hiiiee, I'm Sanvie <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70">
 <p align="center">
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/pink?raw=true" width="350">
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/pink.png?raw=true" width="350">
 </p>
 💻 Passionate about coding, problem-solving, and building cool projects.  
 📚 Currently learning **Data Structures & Algorithms in Java**  
-
 </div>
-
 <p align="center">
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/tumblr_883d3476782fe88abd828859a7638b36_4ccc49f3_2048-removebg.png?raw=true" width="350">
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/purple.png?raw=true" width="350">
 </p>
 
 ## 🛠 Tech Stack:
