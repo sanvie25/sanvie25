@@ -1,20 +1,6 @@
 <div align="center">
-
-# 👋 
-<span style="color:#F4C2C2;">H</span>
-<span style="color:#E6A8D7;">i</span>
-<span style="color:#F4C2C2;">i</span>
-<span style="color:#E6A8D7;">i</span>
-<span style="color:#F4C2C2;">e</span>
-<span style="color:#E6A8D7;">e</span>, 
-I'm 
-<span style="color:#F4C2C2;">S</span>
-<span style="color:#E6A8D7;">a</span>
-<span style="color:#F4C2C2;">n</span>
-<span style="color:#E6A8D7;">v</span>
-<span style="color:#F4C2C2;">i</span>
-<span style="color:#E6A8D7;">e</span> 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="40">
+  
+# Hiiiee, I'm Sanvie <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70">
 
 💻 Passionate about coding, problem-solving, and building cool projects.  
 📚 Currently learning **Data Structures & Algorithms in Java**  
