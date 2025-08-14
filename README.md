@@ -39,14 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
 </a>
 <p align="center">
-
-### 📊 GitHub Stats
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/blue.png?raw=true" width="100%">
+</p>### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanvie25&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanvie25&theme=radical" alt="streak" />
-</p>
-
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/enddiv.png?raw=true" width="100%">
 </p>
