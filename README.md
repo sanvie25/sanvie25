@@ -1,10 +1,20 @@
 <div align="center">
   <h1>Hiiiee, I'm Sanvie <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70"></h1>
-<img src="https://github.com/sanvie25/sanvie25/blob/main/pink.png?raw=true" width="100%">
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/pink.png?raw=true" width="100%">
 </div>
-### 🌟 About Me
-<img src="https://github.com/sanvie25/sanvie25/blob/main/pink stamp.png?raw=true" width="50"> I’m currently working on Traverly
-<img src="https://github.com/sanvie25/sanvie25/blob/main/green stamp.png?raw=true" width="50"> Currently learning <b>Data Structures & Algorithms in Java</b></p> 
+
+<h2>🌟 About Me</h2>
+
+<p>
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/pink%20stamp.png?raw=true" width="50" style="vertical-align:middle; margin-right:10px;">
+  I’m currently working on <b>Traverly</b>
+</p>
+
+<p>
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/green%20stamp.png?raw=true" width="50" style="vertical-align:middle; margin-right:10px;">
+  Currently learning <b>Data Structures & Algorithms in Java</b>
+</p>
+
 <p align="center">
   <img src="https://github.com/sanvie25/sanvie25/blob/main/purple.png?raw=true" width="100%">
 </p>
