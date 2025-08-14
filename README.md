@@ -6,7 +6,7 @@
 <h2> About Me  ‧₊˚❀༉‧₊˚. </h2>
  <p>
   <img src="https://github.com/sanvie25/sanvie25/blob/main/pink%20stamp.png?raw=true" width="30" style="vertical-align:middle; margin-right:10px;">
-  I’m currently working on <b>Traverly</b>
+  I’m currently working on <b></b>
 </p>
 
 <p>
@@ -18,7 +18,7 @@
   <img src="https://github.com/sanvie25/sanvie25/blob/main/purple.png?raw=true" width="100%">
 </p>
 
-## 🛠 Tech Stack:
+## Tech Stack ཐིཋྀ₊˚*:ꔫ:*｡
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
