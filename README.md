@@ -6,7 +6,7 @@
 <h2> About Me  ‧₊˚❀༉‧₊˚. </h2>
  <p>
   <img src="https://github.com/sanvie25/sanvie25/blob/main/pink%20stamp.png?raw=true" width="30" style="vertical-align:middle; margin-right:10px;">
-  I’m currently working on <b></b>
+  I’m currently making my <b>personal portfolio</b> to showcase my projects and skills.
 </p>
 
 <p>
@@ -20,9 +20,15 @@
 
 ## Tech Stack ✿
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
 </p>
-
 
 <p align="center">
   <img src="https://github.com/sanvie25/sanvie25/blob/main/green.png?raw=true" width="100%">
