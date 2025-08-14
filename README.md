@@ -35,7 +35,12 @@
 </p>
 
 ## Connect with Me :3
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanvie25)
+<a href="https://linkedin.com/in/sanvie25" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://leetcode.com/sanvie/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+</a>
 <p align="center">
   <img src="https://github.com/sanvie25/sanvie25/blob/main/enddiv.png?raw=true" width="100%">
 </p>
