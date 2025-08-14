@@ -3,8 +3,8 @@
 <img src="https://github.com/sanvie25/sanvie25/blob/main/pink.png?raw=true" width="100%">
 </div>
 ### 🌟 About Me
-<img src="https://github.com/sanvie25/sanvie25/blob/main/pink stamp.png?raw=true" width="10">🔭 I’m currently working on Traverly
-<img src="https://github.com/sanvie25/sanvie25/blob/main/green stamp.png?raw=true" width="10"> Currently learning <b>Data Structures & Algorithms in Java</b></p> 
+<img src="https://github.com/sanvie25/sanvie25/blob/main/pink stamp.png?raw=true" width="50"> I’m currently working on Traverly
+<img src="https://github.com/sanvie25/sanvie25/blob/main/green stamp.png?raw=true" width="50"> Currently learning <b>Data Structures & Algorithms in Java</b></p> 
 <p align="center">
   <img src="https://github.com/sanvie25/sanvie25/blob/main/purple.png?raw=true" width="100%">
 </p>
