@@ -3,12 +3,8 @@
   <img src="https://github.com/sanvie25/sanvie25/blob/main/pink.png?raw=true" width="100%">
 </div>
 
-<p>
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/red%20stamp.png?raw=true" width="40" style="vertical-align:middle; margin-right:10px;">
-  About Me𐙚
-</p>
-
-<p>
+<h2> About Me  ‧₊˚❀༉‧₊˚. </h2>
+ <p>
   <img src="https://github.com/sanvie25/sanvie25/blob/main/pink%20stamp.png?raw=true" width="30" style="vertical-align:middle; margin-right:10px;">
   I’m currently working on <b>Traverly</b>
 </p>
