@@ -1,4 +1,4 @@
-# 👋 **Hiiiee, I'm Sanvie**  
+# **Hii!! I'm Sanvie :3**  
 💻 Passionate about coding, problem-solving, and building cool projects.  
 📚 Currently learning **Data Structures & Algorithms in Java**  
 
