@@ -30,9 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/green.png?raw=true" width="100%">
-</p>
 
 ## Connect with Me :3
 <a href="https://linkedin.com/in/sanvie25" target="_blank">
@@ -42,5 +39,14 @@
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
 </a>
 <p align="center">
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanvie25&show_icons=true&theme=radical" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanvie25&theme=radical" alt="streak" />
+</p>
+
   <img src="https://github.com/sanvie25/sanvie25/blob/main/enddiv.png?raw=true" width="100%">
 </p>
