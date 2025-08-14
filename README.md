@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://github.com/sanvie25/sanvie25/blob/main/tumblr_883d3476782fe88abd828859a7638b36_4ccc49f3_2048-removebg.png?raw=true" width="350">
 </p>
----
 
 ## 🛠 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
