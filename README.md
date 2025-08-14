@@ -6,12 +6,12 @@
 <h2>🌟 About Me</h2>
 
 <p>
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/pink%20stamp.png?raw=true" width="50" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/pink%20stamp.png?raw=true" width="30" style="vertical-align:middle; margin-right:10px;">
   I’m currently working on <b>Traverly</b>
 </p>
 
 <p>
-  <img src="https://github.com/sanvie25/sanvie25/blob/main/green%20stamp.png?raw=true" width="50" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://github.com/sanvie25/sanvie25/blob/main/green%20stamp.png?raw=true" width="30" style="vertical-align:middle; margin-right:10px;">
   Currently learning <b>Data Structures & Algorithms in Java</b>
 </p>
 
