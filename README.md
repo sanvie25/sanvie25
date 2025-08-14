@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hiiiee, I'm Sanvie <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="40">
+# **Hiiiee, I'm Sanvie <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70">**
 
 💻 Passionate about coding, problem-solving, and building cool projects.  
 📚 Currently learning **Data Structures & Algorithms in Java**  
