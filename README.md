@@ -2,9 +2,9 @@
   <h1>Hiiiee, I'm Sanvie <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="70"></h1>
 <img src="https://github.com/sanvie25/sanvie25/blob/main/pink.png?raw=true" width="100%">
   
-<p>💻 Passionate about coding, problem-solving, and building cool projects.<br>
-  📚 Currently learning <b>Data Structures & Algorithms in Java</b></p> 
-</div>
+### 🌟 About Me
+- 🔭 I’m currently working on Traverly
+- 🌱 Currently learning <b>Data Structures & Algorithms in Java</b></p> 
 <p align="center">
   <img src="https://github.com/sanvie25/sanvie25/blob/main/purple.png?raw=true" width="100%">
 </p>
