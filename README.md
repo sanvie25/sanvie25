@@ -11,7 +11,7 @@
 
 <p>
   <img src="https://github.com/sanvie25/sanvie25/blob/main/green%20stamp.png?raw=true" width="30" style="vertical-align:middle; margin-right:10px;">
-  Currently learning <b>Data Structures & Algorithms in Java</b>
+  Learning <b>Data Structures & Algorithms in Java</b>
 </p>
 
 <p align="center">
